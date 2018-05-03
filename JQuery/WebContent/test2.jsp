@@ -12,6 +12,7 @@
 <%="test2 local" %>
 =======
     <%="test2 github" %>
+            <%="test2 world" %>
 >>>>>>> refs/remotes/origin/master
 </body>
 </html>
