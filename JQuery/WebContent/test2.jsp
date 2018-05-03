@@ -8,5 +8,6 @@
 </head>
 <body>
 <%="test2" %>
+<%="test2 local" %>
 </body>
 </html>
