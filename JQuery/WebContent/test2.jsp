@@ -8,6 +8,10 @@
 </head>
 <body>
 <%="test2" %>
+<<<<<<< HEAD
 <%="test2 local" %>
+=======
+    <%="test2 github" %>
+>>>>>>> refs/remotes/origin/master
 </body>
 </html>
